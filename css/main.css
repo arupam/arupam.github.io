@@ -1,6 +1,6 @@
 .site-header {
     height: 100vh;
-    font-family: sans-serif;
+    font-family: monospace;
     display: flex;
     flex-direction: column;
     justify-content: center;
